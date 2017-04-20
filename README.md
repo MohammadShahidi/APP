@@ -1,4 +1,7 @@
 # APP
 
 ..............Advanced Programming Project......................
-by : MaMMaD & HA$ANZ 
+by :
+  1) Mohammad Shahidi
+  2) MahdiHasanzadeh
+  
